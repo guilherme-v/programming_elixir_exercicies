@@ -2,6 +2,7 @@
 
 Solutions for the exercises in Programming Elixir (by Dave Thomas)
 
+* Chapter 18 - WIP
 * Chapter 17
 * Chapter 16
 * Chapter 15 - WIP
